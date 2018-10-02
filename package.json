@@ -1,0 +1,21 @@
+{
+  "name": "downloadpics",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "download",
+    "pics"
+  ],
+  "author": "Hanna",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3",
+    "fs": "0.0.1-security",
+    "path": "^0.12.7",
+    "request": "^2.88.0"
+  }
+}
